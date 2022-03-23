@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.centdiv{
+margin:auto;
+width:75%;
+padding:50%;
+}
+</style>
+</head>
+<body>
+<div class="centdiv">
+<button type="button" onclick="alert('Whoila!')">Buy</button>
+</div>
+</body>
+</html>
